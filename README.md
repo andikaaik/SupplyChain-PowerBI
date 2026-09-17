@@ -1,6 +1,6 @@
 # Supply Chain Analytics Dashboard
 
-## Tentang Project
+## Overview
 
 Project ini merupakan **dashboard analitik Supply Chain** yang dibuat untuk membantu memantau kondisi inventory dan beberapa indikator utama dalam proses supply chain melalui visualisasi data yang interaktif.
 
@@ -16,7 +16,7 @@ Dashboard ini dibuat untuk menjawab beberapa pertanyaan bisnis, antara lain:
 * Produk mana yang memiliki inventory dengan usia penyimpanan yang tinggi?
 * Bagaimana kondisi inventory berdasarkan warehouse dan produk?
 
-## Halaman Dashboard
+## Dashboard Pages
 
 Dashboard terdiri dari empat halaman utama:
 
@@ -36,14 +36,14 @@ Menampilkan dan menganalisis purchase order dari supplier serta mengidentifikasi
 
 Menganalisis inventory berdasarkan lama waktu penyimpanan untuk membantu mengidentifikasi inventory yang sudah terlalu lama berada di warehouse.
 
-## Teknologi yang Digunakan
+## Tech Stack
 
 * **PostgreSQL** — Penyimpanan dan pengolahan data
 * **DBeaver** — Manajemen database dan pengembangan SQL
 * **SQL** — Data preparation dan analisis data
 * **Power BI** — Visualisasi data dan pengembangan dashboard
 
-## Struktur Project
+## Project Structure
 
 ```text
 SupplyChain-PowerBI/
@@ -57,23 +57,21 @@ SupplyChain-PowerBI/
 ├── Dataset/
 │   └── Informasi dan dokumentasi dataset
 │
-├── Screenshots/
+├── Dashboard/
 │   └── Preview dashboard
 │
 └── README.md
 ```
 
-## Skills yang Ditunjukkan
+## Key Skills Demonstrated
 
-Project ini menunjukkan beberapa kemampuan dalam:
-
-* SQL dan data analysis
-* Data cleaning dan transformation
+* Data analysis using SQL
+* Data cleaning and transformation
 * Supply chain analytics
 * Inventory analysis
 * KPI development
 * Data visualization
-* Dashboard development
+* Interactive dashboard development
 * Business-oriented data storytelling
 
 ## Dashboard Preview
